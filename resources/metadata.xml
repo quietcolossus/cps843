@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>2a8c92ee-5049-411f-9c90-bb8d5bf88e99</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Style Transfer APP</name>
+  <author>Liu Fred</author>
+  <version>1.2</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/2a8c92ee-5049-411f-9c90-bb8d5bf88e99/ed3b05c5-4ae2-444b-a141-732b0422025b/packages/zip?src=addons_ml_desktop_install&amp;profile_id=24456807&amp;license=341439&amp;release_family=R2021b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/2a8c92ee-5049-411f-9c90-bb8d5bf88e99/1.2.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/2a8c92ee-5049-411f-9c90-bb8d5bf88e99/ed3b05c5-4ae2-444b-a141-732b0422025b/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/2a8c92ee-5049-411f-9c90-bb8d5bf88e99/ed3b05c5-4ae2-444b-a141-732b0422025b/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
